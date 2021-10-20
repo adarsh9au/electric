@@ -1,6 +1,6 @@
 # Name : Amritanshu Kumar Verma
 # Roll No : 186301012
-# Python Assignment 1
+# Python Assignment C
 a = int(input())
 b = int(input())
 c = int(input())
