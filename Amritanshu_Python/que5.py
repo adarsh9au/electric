@@ -1,6 +1,6 @@
 # Name : Amritanshu Kumar Verma
 # Roll No : 186301012
-# Python Assignment 1
+# Python Assignment E
 num = int(input())
 ch = 'A'
 for i in range(1,num+1):  
